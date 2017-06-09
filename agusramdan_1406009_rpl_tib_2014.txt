@@ -4,3 +4,5 @@ Kelas / Jurusan : B / Teknik Informatika
 Semeseter 	: 6
 
 tambahan 
+
+tambahan 2
