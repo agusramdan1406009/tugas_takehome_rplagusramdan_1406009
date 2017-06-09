@@ -2,3 +2,5 @@ Nama 		: Agus Ramdan
 NPM  		: 1406009
 Kelas / Jurusan : B / Teknik Informatika 
 Semeseter 	: 6
+
+tambahan 
